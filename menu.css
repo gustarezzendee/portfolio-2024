@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#navegacao{
+    width:100%;
+    background-color:rgb(0, 128, 255);
+    
+
+}
+.menu{
+    background-color: rgb(130, 186, 226);
+    padding: 15pt;
+    margin: 5pt;
+    display:inline-flex;
+}

@@ -1,0 +1,18 @@
+h1, h2, h3, p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#nome{text-align: center;
+text-transform: uppercase;
+font-size: 2.5rem;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-shadow: 10px 10px 10px rgb(0, 74, 70) ;
+color: rgb(0, 0, 0);
+}
+h2, h3{
+    width: 100%;
+    text-align: center;
+}
+P{
+    text-align: justify;
+    padding: 5pt;
+}
